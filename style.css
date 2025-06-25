@@ -38,6 +38,10 @@ body {
   padding: 30px;
   flex: 1;
 }
+.about-container img:hover{
+ transform: scale(1.1);
+ transition: 1s;
+}
 
 header {
   background-color: #333;
